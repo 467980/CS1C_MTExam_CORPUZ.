@@ -1,4 +1,4 @@
-const favoriteNumber = 0512;
+const favoriteNumber = 200615;
 let guess = null;
 while (guess !== favoriteNumber) {
   guess = parseInt(prompt("Guess your favorite number: "), 10);
